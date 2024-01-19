@@ -5,6 +5,13 @@ and moreand moreand moreand moreand moreand moreand more
 
 ***
 
+Check $f(x) = x^2$ works inline
+
+$$
+    g(x) = x+2
+    + \pi
+$$
+
 [apple](https://www.apple.com)
 
 3. cat
